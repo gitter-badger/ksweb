@@ -8,7 +8,7 @@
 # Site settings
 env: production
 title: Kartalspace
-email: ks@bluejacket.io
+email: ks@pilgrim.ml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ks.bluejacket.io" # the base hostname & protocol for your site
 permalink: /:categories/:title/
